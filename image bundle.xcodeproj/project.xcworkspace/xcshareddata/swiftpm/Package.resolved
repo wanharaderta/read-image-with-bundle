@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Macaw",
+        "repositoryURL": "https://github.com/exyte/Macaw.git",
+        "state": {
+          "branch": "master",
+          "revision": "f5cdb44eb8787e2becdb8deb955c7b230f1d5de5",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftSVG",
+        "repositoryURL": "https://github.com/mchoe/SwiftSVG.git",
+        "state": {
+          "branch": "master",
+          "revision": "88b9ee086b29019e35f6f49c8e30e5552eb8fa9d",
+          "version": null
+        }
+      },
+      {
+        "package": "SWXMLHash",
+        "repositoryURL": "https://github.com/drmohundro/SWXMLHash",
+        "state": {
+          "branch": null,
+          "revision": "a4931e5c3bafbedeb1601d3bb76bbe835c6d475a",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
